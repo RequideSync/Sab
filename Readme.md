@@ -7,7 +7,7 @@
 This is the initial code to load the library and set the main UI title.
 
 ```lua
-local Sab = loadstring(game:HttpGet("[https://Sablib.StealaBrainrotOnThe.lol/Lib.lua](https://Sablib.StealaBrainrotOnThe.lol/Lib.lua)"))()
+local Sab = loadstring(game:HttpGet("https://raw.githubusercontent.com/RequideSync/Sab/refs/heads/main/Scr/V2.lua"))()
 
 if Sab then
     Sab:SetTitle("Sab UI All Elements Demo")
