@@ -69,7 +69,7 @@ return (function()
 	TitleText.TextColor3 = Color3.fromRGB(166, 166, 166)
 	TitleText.Font = Enum.Font.GothamBold
 	TitleText.TextSize = 18
-	TitleBar.ZIndex = 15
+	TitleText.ZIndex = 15
 
 
 	function Sab:SetTitle(title)
